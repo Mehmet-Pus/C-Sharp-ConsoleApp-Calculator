@@ -1,0 +1,43 @@
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.exe
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.deps.json
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.runtimeconfig.json
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.dll
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.pdb
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.csproj.AssemblyReference.cache
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.AssemblyInfoInputs.cache
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.AssemblyInfo.cs
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.csproj.CoreCompileInputs.cache
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.dll
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/refint/ConsoleApp Calculator.dll
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.pdb
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.genruntimeconfig.cache
+C:/Users/Larckie/Desktop/ExerciseCSharp/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ref/ConsoleApp Calculator.dll
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.deps.json
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.runtimeconfig.json
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.dll
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.pdb
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.AssemblyInfoInputs.cache
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.AssemblyInfo.cs
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.csproj.CoreCompileInputs.cache
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.dll
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/refint/ConsoleApp Calculator.dll
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.pdb
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.genruntimeconfig.cache
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ref/ConsoleApp Calculator.dll
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.deps.json
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.runtimeconfig.json
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.dll
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/bin/Debug/net7.0/ConsoleApp Calculator.pdb
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.AssemblyInfoInputs.cache
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.AssemblyInfo.cs
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.csproj.CoreCompileInputs.cache
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.dll
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/refint/ConsoleApp Calculator.dll
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.pdb
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ConsoleApp Calculator.genruntimeconfig.cache
+/Users/j3luelarck/Documents/CS Projects/C# BackEnd/ConsoleApp Calculator/ConsoleApp Calculator/obj/Debug/net7.0/ref/ConsoleApp Calculator.dll
